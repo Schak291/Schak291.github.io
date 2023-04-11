@@ -3,8 +3,7 @@
 <img src="/docs/assets/img/IMG_0480.png" alt="Kiholo Bay" width=500 align=center>
 
 
-<br><b>Srijata Chakravorti</b>
-<br>Data Science Manager, SFL Scientific, a Deloitte business
+<br><b>Data Science Manager, SFL Scientific, a Deloitte business --- seen here at Kiholo Bay, Island of Hawai'i</b>
 
 <br> Hi! I am a data scientist at SFL Scientific/ Deloitte US Consulting. I use machine learning and data science to solve both business and research problems in the energy, resources and industrial products sectors.
 
