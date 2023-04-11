@@ -8,3 +8,6 @@
 <br> Hi! I am a data scientist at SFL Scientific/ Deloitte US Consulting. I use machine learning and data science to solve both business and research problems in the energy, resources and industrial products sectors.
 
 Prior to joining industry, I was a graduate research assistant at Vanderbilt University with Prof Benoit Dawant and Prof Jack Noble. I conducted research on medical image processing algorithms and statistical modeling to identify causes of poor health outcomes after surgery.
+
+<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q14Bb68AAAAJ">Google Scholar Profile</a>
+<a href="https://www.linkedin.com/in/srijatachakravorti/">LinkedIn Profile</a>
