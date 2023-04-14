@@ -3,11 +3,13 @@
 <img src="/docs/assets/img/IMG_0480.png" alt="Kiholo Bay" width=500 align=center>
 
 
-<br><b>Data Science Manager, SFL Scientific, a Deloitte business --- seen here after business hours at Kiholo Bay, Island of Hawai'i</b>
+<br><b> At Kiholo Bay, Island of Hawai'i</b>
 
-<br> Hi! I am a data scientist at SFL Scientific/ Deloitte US Consulting. I use machine learning and data science to solve both business and research problems in the energy, resources and industrial products sectors.
+<br> Hello! I am a data science consultant in AI. I use machine learning and data science to solve both business and research problems in the energy, resources and industrial products sectors. Currently I am a Data Science Manager in SFL Scientific, a Deloitte business.
 
-Prior to joining industry, I was a graduate research assistant at Vanderbilt University with Prof Benoit Dawant and Prof Jack Noble. I conducted research on medical image processing algorithms and statistical modeling to identify causes of poor health outcomes after surgery. Read my full <a href="https://ir.vanderbilt.edu/bitstream/handle/1803/16636/CHAKRAVORTI-DISSERTATION-2021.pdf"  target="_blank" rel="noopener noreferrer">dissertation</a> for more info! 
+Prior to joining industry, I got a PhD from Vanderbilt University, advised by Prof Benoit Dawant and Prof Jack Noble. I conducted research on medical image processing algorithms and statistical modeling to identify causes of poor health outcomes after surgery. Read my full <a href="https://ir.vanderbilt.edu/bitstream/handle/1803/16636/CHAKRAVORTI-DISSERTATION-2021.pdf"  target="_blank" rel="noopener noreferrer">dissertation</a> for more info!
+
+<b> When I'm not trying to find patterns in data,</b> I love to travel and hike. The photo above is when I went to Hawai'i for the first time and was stunned at the effortless beauty of the land.
 
 <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=q14Bb68AAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar Profile</a>
 
