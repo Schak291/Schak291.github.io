@@ -3,5 +3,6 @@
 source "https://rubygems.org"
 gemspec
 
-gem 'jekyll-remote-theme'
-gem 'jekyll-theme-hamilton'
+gem "jekyll"
+gem "jekyll-remote-theme"
+gem "jekyll-theme-hamilton"
